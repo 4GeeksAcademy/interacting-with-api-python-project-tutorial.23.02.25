@@ -1,2 +1,4 @@
 .env
 .learn
+CLIENT_ID="insert your client key"
+CLIENT_SECRET="insert your client secret"
